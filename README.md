@@ -18,19 +18,19 @@ cd react-src
 npm i
 ```
 
-Build React.js app
+Build the React.js app
 
 ```
 npm run build
 ```
 
-Start development server
+Start the development server
 
 ```
 npm start
 ```
 
-Start Neutralinojs app
+Start the Neutralinojs app
 
 ```
 cd ..
