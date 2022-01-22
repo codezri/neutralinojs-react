@@ -1,2 +1,2 @@
-# neutralinojs-zero
-An empty Neutralinojs app, extend as you wish
+# neutralinojs-react
+A simple React.js template for building Neutralinojs apps
