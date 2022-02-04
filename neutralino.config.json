@@ -8,7 +8,7 @@
   "enableNativeAPI": true,
   "tokenSecurity": "one-time",
   "nativeAllowList": [
-      "app.*",
+      "app.*"
   ],
   "modes": {
     "window": {
