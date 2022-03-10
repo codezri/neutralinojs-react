@@ -25,8 +25,8 @@
     "resourcesPath": "/react-src/build/",
     "extensionsPath": "/extensions/",
     "clientLibrary": "/react-src/public/neutralino.js",
-    "binaryVersion": "4.3.0",
-    "clientVersion": "3.2.0",
+    "binaryVersion": "4.4.0",
+    "clientVersion": "3.3.0",
     "frontendLibrary": {
         "patchFile": "/react-src/public/index.html",
         "devUrl": "http://localhost:3000"
