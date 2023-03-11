@@ -2,13 +2,13 @@
   "applicationId": "js.neutralino.zero",
   "version": "1.0.0",
   "defaultMode": "window",
-  "documentRoot": "/react-src/build/",
+  "documentRoot": "/myapp-react/build/",
   "url": "/",
   "enableServer": true,
   "enableNativeAPI": true,
-  "tokenSecurity": "one-time",
   "nativeAllowList": [
-      "app.*"
+    "app.*",
+    "filesystem.readDirectory"
   ],
   "modes": {
     "window": {
@@ -17,19 +17,15 @@
       "height": 500,
       "minWidth": 400,
       "minHeight": 200,
-      "icon": "/react-src/public/logo192.png"
+      "icon": "/myapp-react/public/logo192.png"
     }
   },
   "cli": {
     "binaryName": "myapp",
-    "resourcesPath": "/react-src/build/",
     "extensionsPath": "/extensions/",
-    "clientLibrary": "/react-src/public/neutralino.js",
-    "binaryVersion": "4.7.0",
-    "clientVersion": "3.6.0",
-    "frontendLibrary": {
-        "patchFile": "/react-src/public/index.html",
-        "devUrl": "http://localhost:3000"
-    }
+    "resourcesPath": "/myapp-react/build/",
+    "clientLibrary": "/myapp-react/public/__neutralino_globals.js",
+    "binaryVersion": "4.10.0",
+    "clientVersion": "3.8.2"
   }
 }
