@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
+// Import init function from "@neutralinojs/lib"
+import { init } from "@neutralinojs/lib"
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
@@ -10,4 +13,4 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-window.Neutralino.init();
+init(); // Add this function call

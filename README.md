@@ -14,7 +14,7 @@ neu create testapp --template codezri/neutralinojs-react
 Install React.js app's dependencies
 
 ```
-cd react-src
+cd myapp-react
 npm i
 ```
 
