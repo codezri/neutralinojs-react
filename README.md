@@ -18,12 +18,6 @@ cd myapp-react
 npm i
 ```
 
-Build the React.js app
-
-```
-npm run build
-```
-
 Start the development server
 
 ```
@@ -38,3 +32,7 @@ neu run --frontend-lib-dev
 ```
 
 Hot reloading will work, happy coding...
+
+## License
+
+[MIT](LICENSE)
