@@ -21,6 +21,7 @@ npm i
 Start the development server
 
 ```
+cd react-src
 npm start
 ```
 
