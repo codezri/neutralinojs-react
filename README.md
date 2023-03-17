@@ -6,7 +6,7 @@ A simple React.js template for building Neutralinojs apps
 Create a new Neutralinojs project with this template.
 
 ```
-neu create testapp --template codezri/neutralinojs-react
+neu create myapp --template codezri/neutralinojs-react
 ```
 
 ## How to develop
