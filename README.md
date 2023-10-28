@@ -7,29 +7,15 @@ Create a new Neutralinojs project with this template.
 
 ```
 neu create myapp --template codezri/neutralinojs-react
+cd myapp
 ```
 
 ## How to develop
 
-Install React.js app's dependencies
+Start the React development server and Neutralinojs app:
 
 ```
-cd myapp-react
-npm i
-```
-
-Start the development server
-
-```
-cd react-src
-npm start
-```
-
-Start the Neutralinojs app
-
-```
-cd ..
-neu run --frontend-lib-dev
+neu run
 ```
 
 Hot reloading will work, happy coding...
