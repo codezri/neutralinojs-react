@@ -3,7 +3,7 @@ A simple React.js template for building Neutralinojs apps
 
 ## How to install
 
-Create a new Neutralinojs project with this template.
+Create a new Neutralinojs project with this template with the following command:
 
 ```bash
 neu create myapp --template codezri/neutralinojs-react
