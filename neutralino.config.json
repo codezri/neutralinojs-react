@@ -30,7 +30,7 @@
         "devUrl": "http://localhost:3000",
         "projectPath": "/react-src/",
         "initCommand": "npm install",
-        "devCommand": "BROWSER=none npm start",
+        "devCommand": "npm run start",
         "buildCommand": "npm run build"
     }
   }
