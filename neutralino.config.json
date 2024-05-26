@@ -17,7 +17,8 @@
       "height": 500,
       "minWidth": 400,
       "minHeight": 200,
-      "icon": "/react-src/public/logo192.png"
+      "icon": "/react-src/public/logo192.png",
+      "enableInspector": true
     }
   },
   "cli": {
