@@ -31,7 +31,8 @@
         "projectPath": "/react-src/",
         "initCommand": "npm install",
         "devCommand": "npm run start",
-        "buildCommand": "npm run build"
+        "buildCommand": "npm run build",
+        "waitTimeout": 20000
     }
   }
 }
