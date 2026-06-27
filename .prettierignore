@@ -1,0 +1,6 @@
+# Ignore artifacts:
+dist
+bin
+.github
+public
+pnpm-lock.yaml

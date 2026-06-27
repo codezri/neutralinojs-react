@@ -1,0 +1,21 @@
+{
+  "name": "neutralinojs-react",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "scripts": {
+    "dev": "neu run",
+    "dev-i": "neu run -- --window-enable-inspector",
+    "build": "neu build",
+    "build-e": "neu build --embed-resources",
+    "web": "pnpm -F react-src",
+    "format": "prettier --write .",
+    "format-list": "prettier --list-different ."
+  },
+  "devDependencies": {
+    "@neutralinojs/neu": "^11.7.2",
+    "prettier": "^3.8.4"
+  }
+}
