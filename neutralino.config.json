@@ -32,7 +32,7 @@
         "initCommand": "npm install",
         "devCommand": "npm run start",
         "buildCommand": "npm run build",
-        "waitTimeout": 60000
+        "waitTimeout": 120000
     }
   }
 }
